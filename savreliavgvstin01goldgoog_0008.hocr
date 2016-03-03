@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./savreliavgvstin01goldgoog_0008.png"; bbox 0 0 3392 4917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1521 1958 1854 1966">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1521 1958 1854 1966">
+     <span class='ocr_line' id='line_1_1' title="bbox 1521 1958 1854 1966; baseline 0 2951"><span class='ocrx_word' id='word_1_1' title='bbox 1521 1958 1854 1966; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1859 1959 2141 1966">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1859 1959 2141 1966">
+     <span class='ocr_line' id='line_1_2' title="bbox 1859 1959 2141 1966; baseline 0 2951"><span class='ocrx_word' id='word_1_2' title='bbox 1859 1959 2141 1966; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1221 2060 2456 2114">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1221 2060 2456 2114">
+     <span class='ocr_line' id='line_1_3' title="bbox 1221 2060 2456 2114; baseline -0.004 -11"><span class='ocrx_word' id='word_1_3' title='bbox 1221 2064 1362 2114; x_wconf 83' lang='lat' dir='ltr'>&#39;rypis</span> <span class='ocrx_word' id='word_1_4' title='bbox 1391 2063 1617 2112; x_wconf 76' lang='lat' dir='ltr'><strong>expressit</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1644 2061 1918 2110; x_wconf 83' lang='lat' dir='ltr'>Rudolphus</span> <span class='ocrx_word' id='word_1_6' title='bbox 1949 2062 2007 2100; x_wconf 78' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2034 2060 2228 2110; x_wconf 81' lang='lat' dir='ltr'>Rohrer,</span> <span class='ocrx_word' id='word_1_8' title='bbox 2256 2060 2456 2099; x_wconf 82' lang='lat' dir='ltr'><strong>Brunae.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
